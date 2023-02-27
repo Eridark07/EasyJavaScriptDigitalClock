@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.normalText{
+    color: #00FFFF;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'DO Futuristic', sans-serif;
+}
+#pText{
+    color: #00FFFF; /* set the font color to a light blue shade */
+    text-align: center;
+    margin-top: 14%;
+    font-size: 150px;
+    font-family: 'DO Futuristic', sans-serif;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF;
+}
