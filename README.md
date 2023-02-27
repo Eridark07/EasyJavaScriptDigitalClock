@@ -1,1 +1,3 @@
 # EasyJavaScriptDigitalClock
+
+This is a JavaScript Digital Clock uses the 'Date()' object, which its a built-in object in JavaScript, then it gets the hours, minutes and seconds using the 'getHours()', 'getMinutes()' and 'getSeconds()' methods to get only the values that we want (it can easily be modified for having more data like milliseconds or the year). In the CSS I used a "Futuristic" font I found in cdnfonts.com, this font was added by Cameral Dias, after applying this font I added a glowing effect using the 'text-shadow' property in CSS. Finally, the HTML its just a regular HTML file which creates 2 <p> tags and has a reference to the scripts and to the styles. 
