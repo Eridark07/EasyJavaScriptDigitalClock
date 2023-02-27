@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#pText, .normalText{
+    color: #00FFFF;
+    text-align: center;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF;
+    font-family: 'DO Futuristic', sans-serif;
+}
+#pText {
+    margin-top: 15%;
+    font-size: 150px;
+}
+.normalText{
+    font-size: 50px;
+}
